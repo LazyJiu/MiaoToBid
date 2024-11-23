@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = 'MiaoToBid-iOS'
-  spec.version      = '1.0.1'
+  spec.version      = '1.0.2'
   spec.summary      = '官方tobid因为kuaishouSDK不支持内容广告，所以单独拉出来一个podspec支持快手内容sdk'
   spec.description      = <<-DESC
   ToBid-iOS provides ADs which include native、banner、splash、RewardVideo、Interstitial etc.
